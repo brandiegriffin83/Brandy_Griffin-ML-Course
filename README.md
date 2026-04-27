@@ -4,7 +4,7 @@
 A.I. at the Edge & IIoT
 
 ## About Me
-My name is Brandy Griffin. This portfolio showcases my work and progress throughout the Machine Learning course. I gained hands-on experience with labs, assignments, and real-world applications of AI and IoT technologies.
+My name is Brandy Griffin. This portfolio showcases my work and progress throughout this Machine Learning course. Throughout the semester, I gained hands-on experience with labs, assignments, and real-world applications of AI and IoT technologies.
 
 ## Portfolio Contents
 
@@ -22,12 +22,15 @@ My name is Brandy Griffin. This portfolio showcases my work and progress through
 - Assignment 6
 - Assignment 9
 
+### Projects
+- Midterm Project: Cybersecurity Plan for an AI-Integrated IIoT System
+
 ## Skills & Learning Outcomes
-- Understanding AI and IoT systems
-- Applying machine learning concepts
-- Data analysis and interpretation
-- Problem-solving and critical thinking
-- Hands-on experience with real-world scenarios
+- Understanding AI and IoT systems  
+- Applying machine learning concepts  
+- Data analysis and interpretation  
+- Problem-solving and critical thinking  
+- Hands-on experience with real-world scenarios  
 
 ## Notes
 Some files are provided via external links due to file size limitations.
